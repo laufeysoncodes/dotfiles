@@ -1,0 +1,4 @@
+prettier.forceFormatDocument
+eslint.executeAutofix
+prettier.formatFile
+prettier.formatFile
